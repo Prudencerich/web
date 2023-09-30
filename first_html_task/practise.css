@@ -1,0 +1,21 @@
+.banner {
+    background-color: #1ca0dd;
+    color: #f5df4e;
+    margin-top: 50px;
+    text-align: center;
+    padding: 200px 0;
+}
+
+#small-gritty {
+    height: 150px;
+    width: 150px 
+}
+
+#isy {
+    color: #e21212;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
